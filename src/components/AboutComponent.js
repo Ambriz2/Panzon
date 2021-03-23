@@ -16,9 +16,8 @@ function RenderPartner({partner}) {
         );
     }
         return 
-            <div />
-        
-    }
+        <div />
+ }
 
 
 
